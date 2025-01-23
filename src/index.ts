@@ -1,0 +1,1 @@
+const str:string = 'HELLO WORLD'
